@@ -1,4 +1,4 @@
 // Write your code in this file!
-typeof "const currentUser = 'Grace Hopper';";
-"const currentUser = 'Grace Hopper';".length;
-//=> 35
+const currentUser = 'Grace Hopper';
+ 
+const welcomeMessage = 'Welcome to Flatbook, ' + currentUser;
